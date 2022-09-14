@@ -109,12 +109,12 @@
     <!-- 'italic' or 'normal' -->
   </font>
   <font place="InactiveOnScreenDisplay">
-    <name>sans</name>
+    <name>Source Sans Pro</name>
     <size>9</size>
     <!-- font size in points -->
-    <weight>bold</weight>
+    <weight>Bold</weight>
     <!-- 'bold' or 'normal' -->
-    <slant>normal</slant>
+    <slant>Normal</slant>
     <!-- 'italic' or 'normal' -->
   </font>
 </theme>
